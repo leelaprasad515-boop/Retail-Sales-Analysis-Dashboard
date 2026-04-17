@@ -1,2 +1,2 @@
-# Retail-Sales-Analysis-Dashboard
-Power BI project analyzing retail sales with KPIs, dashboards, and demo video link
+## 📺 Project Demo Video
+Watch the walkthrough here: [Google Drive Link] (https://drive.google.com/drive/folders/1Y3MbATh07sdfRRY5OaWd-DYxn7xrsCbv?usp=sharing)
